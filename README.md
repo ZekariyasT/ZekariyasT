@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Zekariyas Tesfaye</h1>
-<p> I am a passionate Software Developer & COO at Nexus Labs, dedicated to leveraging cutting-edge technologyto create innovative solution With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
+<p> I am a passionate Software Developer & COO at Nexus Labs, dedicated to leveraging cutting-edge technology to create innovative solutions With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
 
 
 <h2>💡 What I Do  </h2>
-<p>🔹Software Development – Expertise in Flutter for mobile apps, along with React.js & Next.js for web applications.</br>  
+<p>🔹Software Development – Expertise in Flutter for mobile apps, React.js & Next.js for web applications.</br>  
 🔹 Machine Learning & AI – Strong foundation in Python, focusing on AI-driven solutions. </br> 
-🔹 Cybersecurity & Networking – Aspiring to deepen my knowledge in Computer Systems, Networks, and Security.  </br>
+🔹 Cybersecurity & Networking – Aspiring to deepen my knowledge of Computer Systems, Networks, and Security.  </br>
 🔹 Leadership – Serving as COO at Nexus Labs, driving technology innovation and strategy. </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -44,12 +44,16 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/zekariyas-tesfaye-53a0791a6/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZekariyasT&show_icons=true&locale=en" alt="ZekariyasT" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZekariyasT&" alt="ZekariyasT" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZekariyasT&show_icons=true&locale=en&layout=compact" alt="ZekariyasT" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZekariyasT" alt="ZekariyasT" /></a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZekariyasT/ZekariyasT/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZekariyasT/ZekariyasT/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZekariyasT/ZekariyasT/output/github-snake.svg" />
 </picture>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZekariyasT&show_icons=true&locale=en" alt="ZekariyasT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZekariyasT&" alt="ZekariyasT" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZekariyasT&show_icons=true&locale=en&layout=compact" alt="ZekariyasT" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZekariyasT" alt="ZekariyasT" /></a></p>
+
