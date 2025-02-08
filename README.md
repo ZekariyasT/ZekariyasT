@@ -3,9 +3,9 @@
 
 
 <h2>💡 What I Do  </h2>
-<p>🔹Software Development – Expertise in Flutter for mobile apps, along with React.js & Next.js for web applications.  
-🔹 Machine Learning & AI – Strong foundation in Python, focusing on AI-driven solutions.  
-🔹 Cybersecurity & Networking – Aspiring to deepen my knowledge in Computer Systems, Networks, and Security.  
+<p>🔹Software Development – Expertise in Flutter for mobile apps, along with React.js & Next.js for web applications.</br>  
+🔹 Machine Learning & AI – Strong foundation in Python, focusing on AI-driven solutions. </br> 
+🔹 Cybersecurity & Networking – Aspiring to deepen my knowledge in Computer Systems, Networks, and Security.  </br>
 🔹 Leadership – Serving as COO at Nexus Labs, driving technology innovation and strategy. </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
