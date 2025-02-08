@@ -1,18 +1,12 @@
 <h1>Hi 👋, I'm Zekariyas Tesfaye</h1>
-<p> I am a passionate Software Developer & COO at Nexus Labs, dedicated to leveraging **cutting-edge technologyto create **innovative solution* With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
-
-  
+<p> I am a passionate Software Developer & COO at Nexus Labs, dedicated to leveraging cutting-edge technologyto create innovative solution With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
 
 
-## 💡 What I Do  
-🔹 **Software Development** – Expertise in **Flutter** for mobile apps, along with **React.js & Next.js** for web applications.  
-🔹 **Machine Learning & AI** – Strong foundation in **Python**, focusing on AI-driven solutions.  
-🔹 **Cybersecurity & Networking** – Aspiring to deepen my knowledge in **Computer Systems, Networks, and Security**.  
-🔹 **Leadership** – Serving as **COO at Nexus Labs**, driving technology innovation and strategy.  
-
-
-
-
+<h2>💡 What I Do  </h2>
+<p>🔹Software Development – Expertise in Flutter for mobile apps, along with React.js & Next.js for web applications.  
+🔹 Machine Learning & AI – Strong foundation in Python, focusing on AI-driven solutions.  
+🔹 Cybersecurity & Networking – Aspiring to deepen my knowledge in Computer Systems, Networks, and Security.  
+🔹 Leadership – Serving as COO at Nexus Labs, driving technology innovation and strategy. </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
