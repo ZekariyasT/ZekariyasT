@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 <h1>Hi 👋, I'm Zekariyas Tesfaye</h1>
-<p> I am a passionate Software Developer & Fullstack developer at Nexus Labs, dedicated to leveraging cutting-edge technology to create innovative solutions With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
+<p> I am a passionate Software Developer & Fullstack developer, dedicated to leveraging cutting-edge technology to create innovative solutions With a strong background in Flutter, Machine Learning, Python, React.js, and Next.js, I specialize in building scalable and efficient applications. </p>
 
 
 <h2>💡 What I Do  </h2>
