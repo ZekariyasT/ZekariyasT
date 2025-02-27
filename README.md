@@ -10,7 +10,7 @@
 - **Field Worker App** – A React Native app for real-time task management and GPS tracking.
 - **Arba Minch University Long-Distance Student Management System** – A web-based platform for student and academic management.
 
-📫 Let's connect! Reach me at [your-email@example.com](mailto:zekariyastesfayedesta@gmail.com).
+📫 Let's connect! Reach me at [zekariyastesfayedesta@gmail.com](mailto:zekariyastesfayedesta@gmail.com).
 
 
 <h2>🚀 Languages and Tools I Use</h2>
