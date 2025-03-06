@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 # About Me
 
-👋 Hi, I'm **Zekariyas Tesfaye**, a passionate **Software Developer** dedicated to solving real-world problems through technology and innovation. I have experience in **HTML, CSS, JavaScript, and React**. 
+👋 Hi, I'm **Zekariyas Tesfaye**, a passionate **Software Developer** dedicated to solving real-world problems through technology and innovation. 
 
 🚀 I'm always eager to learn and contribute to projects that push the boundaries of software development.
 
