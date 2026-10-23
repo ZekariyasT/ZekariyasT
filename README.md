@@ -1,14 +1,11 @@
 ![](assets/Bottom_up.svg)
 # About Me
 
-👋 Hi, I'm **Zekariyas Tesfaye**, a passionate **Software Developer** dedicated to solving real-world problems through technology and innovation. 
+I’m Zekariyas Tesfaye, a Software Developer and Master’s student in Computer Science at the University of Salzburg. I focus on backend development, building REST APIs, and working with databases using Node.js, Express, MySQL, and MongoDB.
 
-🚀 I'm always eager to learn and contribute to projects that push the boundaries of software development.
-
-💡 Some of my notable projects include:
-- **Ethiopian Sign Language Translation System (ESLTS)** – A deep learning-powered translation system.
-- **Field Worker App** – A React Native app for real-time task management and GPS tracking.
-- **Arba Minch University Long-Distance Student Management System** – A web-based platform for student and academic management.
+**Projects**
+- **STEM Power Ethiopia Website:** Developed backend functionality and APIs to support website features and data management.
+- **Dereja Tura Engineering Website:** Worked on backend development, API integration, and database management to support website functionality.
 
 📫 Let's connect! Reach me at [zekariyastesfayedesta@gmail.com](mailto:zekariyastesfayedesta@gmail.com).
 
