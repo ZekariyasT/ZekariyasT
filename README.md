@@ -7,7 +7,7 @@ I’m Zekariyas Tesfaye, a Software Developer and Master’s student in Computer
 - **STEM Power Ethiopia Website:** Developed backend functionality and APIs to support website features and data management.
 - **Dereja Tura Engineering Website:** Worked on backend development, API integration, and database management to support website functionality.
 
-📫 Let's connect! Reach me at [zekariyastesfayedesta@gmail.com](mailto:zekariyastesfayedesta@gmail.com).
+ Let's connect! Reach me at [zekariyastesfayedesta@gmail.com](mailto:zekariyastesfayedesta@gmail.com).
 
 
 <h2>🚀 Languages and Tools I Use</h2>
