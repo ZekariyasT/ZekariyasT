@@ -42,9 +42,67 @@ const zekariyas: SoftwareEngineer = {
 
 ### 🚀 Highlighted Work
 
-- 🛒 **[SPORTINGS](https://sportings.cm/)** — Scalable sports-commerce platform backend built with **Node.js, Express & SQL** (40+ REST APIs, 25+ DB tables, +30% query performance).
-- 💼 **[Elite Ethiopia eService](https://client-tau-ten-71.vercel.app/)** — Full-stack freelance & services marketplace built with **Next.js**, featuring live messaging, contracts, and **Telebirr** payment integration.
-- 🔬 **[STEM Power Ethiopia](https://www.stempower.org/ethiopia-and-africa)** — Educational & STEM initiative web platform backend engineered with **Node.js, Express & MySQL** for data management and scalable APIs.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛒 SPORTINGS</h3>
+      <p align="center">
+        <a href="https://sportings.cm/">
+          <img src="https://img.shields.io/badge/Live_Site-sportings.cm-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>Scalable sports-commerce platform backend engine powering product listings, order processing, and user checkout workflows.</p>
+      <ul>
+        <li><b>40+</b> REST API endpoints</li>
+        <li><b>25+</b> Relational database tables</li>
+        <li><b>30%</b> Faster query response time</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">💼 Elite Ethiopia eService</h3>
+      <p align="center">
+        <a href="https://client-tau-ten-71.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_App-Visit_Platform-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telebirr-00A4E4?style=flat-square&logo=cashapp&logoColor=white" />
+      </p>
+      <p>Full-stack marketplace connecting clients, freelancers, and businesses with real-time operations and secure transactions.</p>
+      <ul>
+        <li><b>4</b> User groups across <b>7</b> core modules</li>
+        <li><b>20+</b> Features: messaging, contracts, dispute handling</li>
+        <li>Integrated <b>Telebirr</b> digital payments</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔬 STEM Power Ethiopia</h3>
+      <p align="center">
+        <a href="https://www.stempower.org/ethiopia-and-africa">
+          <img src="https://img.shields.io/badge/Website-stempower.org-10B981?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>Web platform backend supporting STEM enrichment initiatives, laboratory tracking, and educational resource management.</p>
+      <ul>
+        <li>Robust REST API ecosystem</li>
+        <li>Optimized database architecture</li>
+        <li>High-throughput content delivery</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
