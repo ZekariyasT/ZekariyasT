@@ -10,62 +10,64 @@ size-adjust: 109%;
 }
 .key {fill: #953800;}
 .value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                     `:njj!:``             </tspan>
-<tspan x="15" y="50">                   i#@@&amp;@&amp;@@&amp;&amp;%-           </tspan>
-<tspan x="15" y="70">                  %$M%%####MMM&amp;@@M         </tspan>
-<tspan x="15" y="90">                 #&amp;mj!---!!jk%#MM&amp;#        </tspan>
-<tspan x="15" y="110">                 Mni!-:::::-!jm%MM@!       </tspan>
-<tspan x="15" y="130">                `#!!~::`:::~~imkMM&amp;m       </tspan>
-<tspan x="15" y="150">                :n!!!-:``:~-!jnm%M$:       </tspan>
-<tspan x="15" y="170">               :iini!-!:~!!!innn%&amp;#        </tspan>
-<tspan x="15" y="190">               !n-!-~~-:!~:nmjin#%!~       </tspan>
-<tspan x="15" y="210">               ij::::~::!:::::!k#m:~       </tspan>
-<tspan x="15" y="230">               `n~:`:!:~i:``:~n#&amp;m~`       </tspan>
-<tspan x="15" y="250">                in!!jnjnn~::~i#%``         </tspan>
-<tspan x="15" y="270">                `%mkn:::!#kjn##            </tspan>
-<tspan x="15" y="290">                 `k!!:::!ij###m            </tspan>
-<tspan x="15" y="310">                 `##!---!ik##MM`           </tspan>
-<tspan x="15" y="330">                m@MM#kmn#%#MM##&amp;           </tspan>
-<tspan x="15" y="350">               %&amp;MM#M&amp;&amp;&amp;&amp;&amp;M#%#%#m          </tspan>
-<tspan x="15" y="370">              `M%%#%%#MMMM##%%%%#j         </tspan>
-<tspan x="15" y="390">         `:!jmk########%##%%%%%%%##m~`     </tspan>
-<tspan x="15" y="410">      :n%MMM#%%%M#%%%%%%%%%##%%%%%%%#MM#%i </tspan>
-<tspan x="15" y="430">   :m#M%%%%%%%%#####%%%%%%%%%#%%%%%%%%%%%# </tspan>
-<tspan x="15" y="450"> `%M%%#%##%%%%%%##%%%%%%%%%%%%%##%%%%%%### </tspan>
-<tspan x="15" y="470">mM%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%##%###MM </tspan>
-<tspan x="15" y="490">M%%#%%%%%%%%%%##%%%%%%%%%%%#%%%%%%###MMMMM </tspan>
-<tspan x="15" y="510">M#%#%%%%%%%%#%#%%%##%%%%#%%%%%%%%%%#MMMMMM </tspan>
+<tspan x="15" y="30">                    `:::`             </tspan>
+<tspan x="15" y="50">                 `nM&amp;@@@&amp;MM%:         </tspan>
+<tspan x="15" y="70">                -$&amp;M#MMMM&amp;&amp;&amp;@&amp;%`      </tspan>
+<tspan x="15" y="90">               !@#ni!!!ijk%#MM&amp;&amp;      </tspan>
+<tspan x="15" y="110">               %#i!-::::~-im#MM&amp;n     </tspan>
+<tspan x="15" y="130">               #i!~::::::~-nk#&amp;&amp;M     </tspan>
+<tspan x="15" y="150">               m!!!~:``:--!nn#M@n     </tspan>
+<tspan x="15" y="170">             `!ini!!!:~!-!injkM&amp;      </tspan>
+<tspan x="15" y="190">             :k-!!~~-:!:~mmij##n~     </tspan>
+<tspan x="15" y="210">             :k::::~::-::::-j%%-~`    </tspan>
+<tspan x="15" y="230">              n-:`:-:-i:``:!#&amp;%-:     </tspan>
+<tspan x="15" y="250">              :k!!jnjmj:::-mM:`       </tspan>
+<tspan x="15" y="270">               #kkn:::i#mjm#-         </tspan>
+<tspan x="15" y="290">                m!!:::iin##&amp;          </tspan>
+<tspan x="15" y="310">                %%!---!jk%#&amp;j         </tspan>
+<tspan x="15" y="330">              i@MM##mm%##M##&amp;!        </tspan>
+<tspan x="15" y="350">             j&amp;MM#M&amp;&amp;&amp;&amp;&amp;M###%M`       </tspan>
+<tspan x="15" y="370">             %#%#%%#MMMM#%%%%%#:      </tspan>
+<tspan x="15" y="390">       `~im##%######%%##%%%%%%%#%j:`  </tspan>
+<tspan x="15" y="410">    `i%#M##%%%##%%%%%%%%%##%%%%%%##MM#</tspan>
+<tspan x="15" y="430">  -%M#%%%%#%%%#%##%%%%%%%%%%%%%%%%%%%%</tspan>
+<tspan x="15" y="450">:##%%#%##%%%%%##%%%%%%%%%%%%%##%%%%%#M</tspan>
+<tspan x="15" y="470">M%%%%%%%%%%%%##%%%%%%%%%%%#%%%%##%###M</tspan>
+<tspan x="15" y="490">%%#%%%%%%%%%##%%%%%%%%#%#%%%%%%%%#MMMM</tspan>
+<tspan x="15" y="510">#%#%%%%%%%%%#%%%##%%%%#%%%%%%%#%#MMMMM</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">zekariyas@salzburg</tspan> -—————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Backend Software Engineer</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">M.Sc. Computer Science, Univ. of Salzburg</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Salzburg, Austria</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Languages.Prog</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">JavaScript, TypeScript, SQL, Node.js</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Backend &amp; Frameworks</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Express.js, REST APIs, CRUD, Auth</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">PostgreSQL, MySQL, MongoDB</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Tools &amp; Core</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Git, GitHub, Postman, API &amp; DB Design</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Spoken Languages</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">English (C1), German (A2)</tspan>
-<tspan x="390" y="210" class="cc">. </tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">IBEX Technologies (Backend SE)</tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Past Experience</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Dan Energy (SE Intern)</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">B.Sc.</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Software Engineering (CGPA: 3.86/4.0)</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">zekariyastesfayedesta@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">+43 664 2392413</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">https://zekariyas.netlify.app</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">ZekariyasT</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">zekariyas-tesfaye-53a0791a6</tspan>
-<tspan x="390" y="450">- Projects &amp; Highlights</tspan> -—————————————————————————————————————--
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">STEM Power Ethiopia</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">40+ REST APIs, 20+ MySQL tables, +30% perf</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">IBEX Goods-Dist Platform</tspan>:<tspan class="cc"> . </tspan><tspan class="value">15+ Endpoints, Postgres &amp; Mongo, Bole Sub-City</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Dereja Tura Engineering</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">10+ REST APIs, +20% response optimization</tspan>
+<tspan x="390" y="30">zekariyas@salzburg -—————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Linux (Ubuntu), Windows, Android</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Backend Software Engineer</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">M.Sc. Computer Science, Univ. Salzburg</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">B.Sc.</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineering (CGPA: 3.86/4.0)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">University of Salzburg</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">JavaScript, TypeScript, SQL</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Node.js, Express.js, REST APIs</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">PostgreSQL, MySQL, MongoDB</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Git, GitHub, Postman, Linux CLI</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English (C1), German (A2)</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">IBEX Tech (SE), Dan Energy (Intern)</tspan>
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan x="390" y="310">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">zekariyastesfayedesta@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">+43 664 2392413</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">https://zekariyas.netlify.app</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">zekariyas-tesfaye-53a0791a6</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">ZekariyasT</tspan>
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="450">- Projects & Highlights -————————————————————————————————-—-</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">STEM Power</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">40+ REST APIs, 20+ DB tables, +30% perf</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">IBEX Platform</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">15+ Endpoints, Postgres &amp; MongoDB</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Dereja Tura</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">10+ Endpoints, +20% response optimization</tspan>
 </text>
 </svg>
