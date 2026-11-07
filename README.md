@@ -114,11 +114,6 @@ const zekariyas: SoftwareEngineer = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZekariyasT/ZekariyasT/output/github-snake.svg" width="100%" />
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZekariyasT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZekariyasT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</p>
-
 <img src="assets/Bottom_down.svg" width="100%" />
 
 </div>
