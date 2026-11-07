@@ -42,9 +42,9 @@ const zekariyas: SoftwareEngineer = {
 
 ### 🚀 Highlighted Work
 
-- 🛒 **[SPORTINGS](https://github.com/ZekariyasT)** — Scalable sports-commerce backend built with **Node.js, Express & SQL** (40+ REST APIs, 25+ DB tables, +30% query performance).
-- 💼 **[Elite Ethiopia eService](https://github.com/ZekariyasT)** — Full-stack freelance & services marketplace built with **Next.js**, featuring live messaging, contracts, and **Telebirr** payment integration.
-- 📦 **Bole Sub-City Platform** — Production distribution engine built at **IBEX Tech** coordinating essential logistics with **Node.js, PostgreSQL & MongoDB**.
+- 🛒 **[SPORTINGS](https://sportings.cm/)** — Scalable sports-commerce platform backend built with **Node.js, Express & SQL** (40+ REST APIs, 25+ DB tables, +30% query performance).
+- 💼 **[Elite Ethiopia eService](https://client-tau-ten-71.vercel.app/)** — Full-stack freelance & services marketplace built with **Next.js**, featuring live messaging, contracts, and **Telebirr** payment integration.
+- 🔬 **[STEM Power Ethiopia](https://www.stempower.org/ethiopia-and-africa)** — Educational & STEM initiative web platform backend engineered with **Node.js, Express & MySQL** for data management and scalable APIs.
 
 ---
 
